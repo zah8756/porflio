@@ -1,0 +1,33 @@
+
+html, body, #about, #projects, #contact, #home{
+    height: auto;
+    min-height: 100vh;
+    background-color: #fffced;
+    font-weight: 400;
+    /* scroll-behavior: smooth; */
+}
+
+#home{
+    background:red; 
+}
+
+#about{
+    background: green;
+}
+
+#projects{
+    background: blue;
+}
+
+#contact{
+    background: yellow;
+}
+/* 
+    color scheme pontentail 
+   #7C75FF
+   #8E99ED
+   #618BFF
+   #3E74BD
+   #AACDE6
+
+*/
